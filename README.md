@@ -7,3 +7,10 @@ I'm a software developer from Los Angeles 🌴
 - working on #DeFi
 
 i use arch btw
+
+Thank you sponsors!
+
+- [Shane Fontaine](https://github.com/shanefontaine)
+- [Jon Roethke](https://github.com/waymobetta)
+- [Shiming](https://github.com/huahuayu)
+- [wigbill](https://github.com/wigbill)
