@@ -6,11 +6,13 @@ I'm a software developer from Los Angeles 🌴
 - creator of [`cointop`](https://github.com/miguelmota/cointop), [`streamhut`](https://github.com/miguelmota/streamhut), [`ipdr`](https://github.com/ipdr/ipdr)
 - working on #DeFi
 
-i use arch btw
+Pull requests welcome 🙂
 
 Thank you sponsors!
 
-- [Shane Fontaine](https://github.com/shanefontaine)
-- [Jon Roethke](https://github.com/waymobetta)
-- [Shiming](https://github.com/huahuayu)
 - [wigbill](https://github.com/wigbill)
+- [Shiming](https://github.com/huahuayu)
+- [Jon Roethke](https://github.com/waymobetta)
+- [Shane Fontaine](https://github.com/shanefontaine)
+
+<sub>i use arch btw</sub>
