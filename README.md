@@ -3,7 +3,7 @@
 I'm a software developer from Los Angeles 🌴 
 
 - contributor to open source :octocat:
-- creator of [`cointop`](https://github.com/miguelmota/cointop), [`streamhut`](https://github.com/miguelmota/streamhut), [`ipdr`](https://github.com/ipdr/ipdr)
+- creator of [`cointop`](https://github.com/miguelmota/cointop), [`streamhut`](https://github.com/miguelmota/streamhut), [`ipdr`](https://github.com/ipdr/ipdr),  [`merkletreejs`](https://github.com/miguelmota/merkletreejs)
 - working on #DeFi
 
 Pull requests welcome 🙂
