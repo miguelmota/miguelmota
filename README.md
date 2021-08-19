@@ -10,8 +10,7 @@ Pull requests welcome 🙂
 
 Thank you sponsors!
 
-- [wigbill](https://github.com/wigbill)
-- [Shiming](https://github.com/huahuayu)
+- [Eugene](https://github.com/gelfand)
 - [Jon Roethke](https://github.com/waymobetta)
 - [Shane Fontaine](https://github.com/shanefontaine)
 
