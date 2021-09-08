@@ -10,6 +10,7 @@ Pull requests welcome 🙂
 
 Thank you sponsors!
 
+- [RHEV](https://github.com/ntwi)
 - [Eugene](https://github.com/gelfand)
 - [Jon Roethke](https://github.com/waymobetta)
 - [Shane Fontaine](https://github.com/shanefontaine)
