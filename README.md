@@ -12,6 +12,7 @@ Thank you sponsors!
 
 - [Erwan](https://github.com/erwanor)
 - [Shiming](https://github.com/huahuayu)
+- [wijuwiju](https://github.com/palevoo)
 - [RHEV](https://github.com/ntwi)
 - [Eugene](https://github.com/gelfand)
 - [Jon Roethke](https://github.com/waymobetta)
