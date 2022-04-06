@@ -10,6 +10,7 @@ Pull requests welcome 🙂
 
 Thank you sponsors!
 
+- [Dawson Botsford](https://github.com/dawsbot)
 - [Erwan](https://github.com/erwanor)
 - [Shiming](https://github.com/huahuayu)
 - [wijuwiju](https://github.com/palevoo)
