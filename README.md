@@ -16,6 +16,7 @@ Thank you sponsors!
 - [wijuwiju](https://github.com/palevoo)
 - [RHEV](https://github.com/ntwi)
 - [Eugene](https://github.com/gelfand)
+- [yixinlee](https://github.com/yixinlee)
 - [Jon Roethke](https://github.com/waymobetta)
 - [Shane Fontaine](https://github.com/shanefontaine)
 
