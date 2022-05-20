@@ -10,14 +10,16 @@ Pull requests welcome 🙂
 
 Thank you sponsors!
 
-- [Dawson Botsford](https://github.com/dawsbot)
-- [Erwan](https://github.com/erwanor)
-- [Shiming](https://github.com/huahuayu)
-- [wijuwiju](https://github.com/palevoo)
-- [RHEV](https://github.com/ntwi)
-- [Eugene](https://github.com/gelfand)
-- [yixinlee](https://github.com/yixinlee)
-- [Jon Roethke](https://github.com/waymobetta)
-- [Shane Fontaine](https://github.com/shanefontaine)
+- [@huahuayu](https://github.com/huahuayu)
+- [@dawsbot](https://github.com/dawsbot)
+- [@erwanor](https://github.com/erwanor)
+- [@shawnharmsen](https://github.com/shawnharmsen)
+- [@fulldecent](https://github.com/fulldecent)
+- [@palevoo](https://github.com/palevoo)
+- [@ntwi](https://github.com/ntwi)
+- [@gelfand](https://github.com/gelfand)
+- [@yixinlee](https://github.com/yixinlee)
+- [@waymobetta](https://github.com/waymobetta)
+- [@shanefontaine](https://github.com/shanefontaine)
 
 <sub>i use arch btw</sub>
